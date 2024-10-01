@@ -14,9 +14,11 @@ The steps we've implemented in this project are:
 
 
 
-# Files
+# Files 
+Notice: to run each python filr (or notebook) update the line "file_path = 'BPI_Challenge_2012.xes'" accordingly to your settings.
 - SKTR.ipynb: The main notebook containing the implementation.
 - SKTR.html
+- sktr.py
 
   # Python Libraries used
 
