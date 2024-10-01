@@ -15,7 +15,8 @@ The steps we've implemented in this project are:
 
 
 # Files
-- `SKTR.ipynb`: The main Jupyter notebook containing the implementation.
+- SKTR.ipynb: The main notebook containing the implementation.
+- SKTR.html
 
   # Python Libraries used
 
