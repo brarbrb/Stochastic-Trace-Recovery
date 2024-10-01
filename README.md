@@ -15,3 +15,19 @@ The steps we've implemented in this project are:
 
 # Files
 - `SKTR.ipynb`: The main Jupyter notebook containing the implementation.
+
+  # Python Libraries used
+
+- pm4py
+- numpy
+- matplotlib
+- sklearn
+- collections
+- random
+
+
+## Results
+
+The notebook produces two key graphs:
+1. **Model Accuracy vs Pa Values**: Shows the accuracy of the models for different noise levels.
+2. **Model Accuracy vs Sequence Length**: Compares the accuracies of the SKTR model with different sequence lengths
